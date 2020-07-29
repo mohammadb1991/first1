@@ -1,2 +1,2 @@
 # FIRST PROJECT
-[گلکسی اسپورت](https:/galaxysports.ir)
+[گلکسی اسپورت](https://www.galaxysports.ir)
